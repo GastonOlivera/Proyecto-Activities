@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Flottam">25dp</dimen>
+    <dimen name="TextBoton">36dp</dimen>
+    <dimen name="AnchoDescripcion">195dp</dimen>
+    <dimen name="BotonAbajo">207dp</dimen>
+
+
+</resources>
